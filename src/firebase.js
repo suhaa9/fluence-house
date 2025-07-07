@@ -4,7 +4,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "",
+  apiKey: "xxx",
   authDomain: "fluence-house.firebaseapp.com",
   projectId: "fluence-house",
   storageBucket: "fluence-house.firebasestorage.app",
